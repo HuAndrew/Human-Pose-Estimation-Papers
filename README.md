@@ -5,13 +5,13 @@ By www.ilovepose.com
 This projects is about human pose estimation papers,projects and other resource.
 
 ### 2.Main Contributions
-### 2.1 2018  Human Pose Estimation Papers
+### 2.1 [2018  Human Pose Estimation Papers](2018-pose-paper-lists.md)
 2018 the lastest papers about human pose estimation
 - AAAI2018
 - ECCV2018
 - CVPR2018
 
-### 2.2 Human Pose Estimation open resources and papers
+### 2.2 [Human Pose Estimation open resources and papers](pose-paper-lists.md)
 Human Pose Estimation previous papers and projects
 
 
