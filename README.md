@@ -17,3 +17,6 @@ Human Pose Estimation previous papers and projects
 
 ## 3. Reference
 - [pose-estimation](https://github.com/HuAndrew/Paper_git/blob/master/deep_learning/2015-10-09-pose-estimation.md)
+
+
+## 4. [awesome-human-pose-estimation相关论文](https://github.com/wangzheallen/awesome-human-pose-estimation)
